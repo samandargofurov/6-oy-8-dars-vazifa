@@ -1,13 +1,13 @@
-body {
-  background-color: bisque;
-}
-
 .weather-card {
   background-color: #040024e7;
   color: white;
   margin-top: 90px;
   border-radius: 20px;
   padding: 20px;
+}
+
+body {
+  background-color: azure;
 }
 
 .search {
