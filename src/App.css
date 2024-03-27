@@ -1,0 +1,42 @@
+body {
+  background-color: bisque;
+}
+
+.weather-card {
+  background-color: #040024e7;
+  color: white;
+  margin-top: 90px;
+  border-radius: 20px;
+  padding: 20px;
+}
+
+.search {
+  display: flex;
+  gap: 5px;
+  justify-content: center;
+  margin-bottom: 20px;
+  margin-top: 10px;
+}
+
+input {
+  background-color: transparent;
+  color: white;
+  border: none;
+  outline: none;
+  padding: 5px 15px 5px 15px;
+  border: 2px solid rgb(163, 163, 163);
+  border-radius: 8px;
+}
+
+input::placeholder {
+  color: white;
+}
+
+.details {
+  margin-top: 40px;
+  font-size: 18px;
+}
+
+.title{ 
+  margin-top: 20px;
+}
